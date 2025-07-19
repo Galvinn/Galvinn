@@ -87,6 +87,8 @@ Welcome to my GitHub! I'm a Computing Science student at the University of Alber
   <img src="https://nirzak-streak-stats.vercel.app/?user=Galvinn&theme=blueberry&hide_border=true" alt="GitHub Streak" height="160" />
 </p>
 
+![snake gif](https://github.com/Galvinn/Galvinn/blob/output/github-snake-dark.svg)
+
 ### 📫 Let’s Connect!
 - Email: **zongxin@ualberta.ca**
 - LinkedIn: [linkedin.com/in/zongxinliu-cs](https://www.linkedin.com/in/zongxinliu-cs/)
