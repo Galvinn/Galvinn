@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a Computing Science student at the University of Alber
 
 ### 🛠️ Languages & Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
@@ -37,14 +37,14 @@ Welcome to my GitHub! I'm a Computing Science student at the University of Alber
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
@@ -53,13 +53,13 @@ Welcome to my GitHub! I'm a Computing Science student at the University of Alber
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/FME-ED1C24?style=flat&logo=datawrapper&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Dataform-4285F4?style=flat&logo=googlecloud&logoColor=white" />
@@ -69,21 +69,22 @@ Welcome to my GitHub! I'm a Computing Science student at the University of Alber
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
+---
 
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Galvinn&show_icons=true&theme=radical" alt="Galvin's GitHub Stats" height="160" #gh-dark-mode-only />
+  <img src="https://github-readme-stats.vercel.app/api?username=Galvinn&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false" alt="Galvinn's GitHub Stats" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galvinn&theme=radical" alt="GitHub Streak" height="160" #gh-dark-mode-only />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Galvinn&theme=blueberry&hide_border=true" alt="GitHub Streak" height="160" />
 </p>
 
 ### 📫 Let’s Connect!
