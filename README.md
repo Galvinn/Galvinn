@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a Computing Science student at the University of Alber
 * 💼 Junior Software/Data Engineer @ **City of Edmonton**
 * 📓 Teaching Assistant in **Web Development, Databases, and Applied Statistics**
 * 🤖 Former AI Engineering Intern at **RWTH Aachen University (Germany)**
-* 🛠️ Developer of award-winning apps like **RideSafe** and **Mind Motion**
+* 🛠️ Developer of award-winning apps like **TrustLine** and **RideSafe** and **Mind Motion** 
 * 🧪 Researcher & published co-author in AI for education (ECTEL 2025)
 
 ---
