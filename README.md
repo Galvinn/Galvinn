@@ -92,3 +92,6 @@ Welcome to my GitHub! I'm a Computing Science student at the University of Alber
 ### 📫 Let’s Connect!
 - Email: **zongxin@ualberta.ca**
 - LinkedIn: [linkedin.com/in/zongxinliu-cs](https://www.linkedin.com/in/zongxinliu-cs/)
+
+### LOL
+![Leetcode Stats](https://leetcard.jacoblin.cool/Galvinn)
