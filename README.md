@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a Computing Science student at the University of Alber
 ### 🚀 About Me
 
 * 🎓 4th-year Computing Science student specializing in Software Development & AI
-* 💼 ML Software Engineer Co-op @ **City of Edmonton**
+* 💼 ML Software Engineer Co-op @ **Huawei Canada**
 * 💼 Former Software & Data Engineer Co-op @ **City of Edmonton**
 * 💼 Teaching Assistant in **Web Development, Databases, and Applied Statistics**
 * 💼 Former AI Engineering Intern at **RWTH Aachen University (Germany)**
